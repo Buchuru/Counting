@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main-div{
+  padding:20vh 20vw;
+  background-color: lightgray;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+button{
+  font-size: 30px;
+  width: 200px;
+  height: 70px;
+}
+.flex{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap:20px;
+}
+p{
+  font-size: 70px;
+}
