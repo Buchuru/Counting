@@ -25,3 +25,13 @@ button{
 p{
   font-size: 70px;
 }
+@media (min-width:320px) and (max-width:500px) {
+  button{
+    font-size: 15px;
+    width: 250px;
+    height: 30px;
+  }
+  p{
+    font-size: 40px;
+  }
+}
